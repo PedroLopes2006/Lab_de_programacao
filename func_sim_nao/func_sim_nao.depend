@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762213605 source:c:\devc\func_sim_nao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
