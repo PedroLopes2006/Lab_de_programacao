@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762304981 source:c:\devc\multiplas_funcoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
